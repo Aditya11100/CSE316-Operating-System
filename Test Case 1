@@ -1,3 +1,5 @@
+Input
+
 Enter the no of students:2
 Enter the name : Adi
 Enter the process time : 4
@@ -6,6 +8,8 @@ Enter the no of gifts : 4
 Enter the name : Raj
 Enter the process time : 3
 Enter the no of gifts : 2
+
+Output
 
 Name    process time     gifts
 Adi         4              4
