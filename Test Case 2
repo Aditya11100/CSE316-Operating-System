@@ -1,0 +1,23 @@
+Enter the no of students:4
+Enter the name : Adi
+Enter the process time : 4
+Enter the no of gifts : 4
+
+Enter the name : Raj
+Enter the process time : 3
+Enter the no of gifts : 2
+
+Enter the name : Saurabh
+Enter the process time : 7
+Enter the no of gifts : 2
+
+Enter the name : Raman
+Enter the process time : 3
+Enter the no of gifts : 2
+
+
+Name    process time     gifts
+Adi         4              4
+Raj         3              2
+Saurabh     3              2
+
