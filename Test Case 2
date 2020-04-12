@@ -13,11 +13,11 @@ Enter the no of gifts : 2
 
 Enter the name : Raman
 Enter the process time : 3
-Enter the no of gifts : 2
+Enter the no of gifts : 5
 
 
 Name    process time     gifts
 Adi         4              4
 Raj         3              2
-Saurabh     3              2
-
+Saurabh     7              2
+Raman       3              5
